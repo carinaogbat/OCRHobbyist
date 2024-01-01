@@ -1,1 +1,1 @@
-This is my final project from SRJC's Web Development 1 class. Where I focused on designing a simple website using only HTML and CSS based around one of my favorite hobbies. The website includes styling of a blog, a table, and a usert input form.
+This is my final project from SRJC's Web Development 1 class. Where I focused on designing a simple website using only HTML and CSS based around one of my favorite hobbies, obstacle course racing. The website includes styling of a blog, a table, and a user input form as well as navigation and footers.
