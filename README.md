@@ -1,1 +1,1 @@
-This is my final project from SRJC's Wed Development 1 class. Where I focused on designing a simple website using only HTML and CSS.
+This is my final project from SRJC's Web Development 1 class. Where I focused on designing a simple website using only HTML and CSS based around one of my favorite hobbies. The website includes styling of a blog, a table, and a usert input form.
