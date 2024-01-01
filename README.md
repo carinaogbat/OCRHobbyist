@@ -1,0 +1,1 @@
+This is my final project from SRJC's Wed Development 1 class. Where I focused on designing a simple website using only HTML and CSS.
