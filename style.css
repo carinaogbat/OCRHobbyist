@@ -1,0 +1,189 @@
+body {
+	background-color: #1F2123;
+	color: #FEF6E9;
+	font-family: georgia, sans-serif;
+}
+
+h1, h2, h3 {
+	color: #DAD3DE;
+}
+
+.tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+
+.tableRow {
+	display: table-row;
+}
+
+section#main {
+	display: table-cell;
+	vertical-align: top;
+	padding: 15px;
+}
+
+section#blog {
+	padding: 15px;
+	margin: 0px, 330px, 10px, 10px;
+}
+
+section#gallery {
+	padding: 15px;
+	text-align: center;
+}
+
+#subscribeForm {
+	float: right;
+	width: 220px;
+	margin: 0px, 10px, 10px, 10px;
+	padding: 15px;
+	background-color: #DAD3DE;
+	color: black;
+	border-radius: 10px;
+}
+
+#subscribeForm h3, h4 {
+	color: black;
+}
+
+aside {
+	display: table-cell;
+	vertical-align: top;
+	padding: 15px;
+	background-color: #DAD3DE;
+	color: black;
+	border-radius: 10px;
+	
+}
+
+aside h3 {
+	color: black;
+}
+
+nav {
+	margin: 10px 10px 0px 10px;
+	padding: 10px;
+	color: white;
+}
+
+nav ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+	padding: 5px;
+	font-weight: bold;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	font-size: large;
+	/* color: #DAD3DE; */
+	color: #DAD3DE;
+}
+
+a {
+	color: #0FAEF7;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+caption {
+	font-weight: bold;
+	padding: 10px;
+}
+
+table {
+	margin-left: 20px;
+	margin-right: 20px;
+	border: solid white;
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 5px;
+	border: thin dotted grey;
+	color: black;
+	
+}
+
+th {
+	background-color: #A5A7B0;
+}
+
+tr:nth-child(even) {
+	background-color: #DAD3DE;
+}
+
+tr:nth-child(odd) {
+	background-color: #DEE0EB;
+}
+
+form {
+	display: table;
+}
+
+.tableRow form {
+	text-align: left;
+}
+
+footer {
+	text-align: center;
+	padding: 15px;
+	font-size: x-small;
+}
+
+.profilephoto {
+	border-radius: 50%;
+	float: left;
+	margin: 5px;
+	max-width: 33%;
+	max-height: 33%;
+}
+
+
+form .tableRow p {
+	display: table-cell;
+	vertical-align: top;
+	text-align: left;
+	padding: 1px;
+}
+
+form .tableRow p:first-child {
+	text-align: left;
+}
+
+fieldset p:first-child {
+	width: 100%;
+}
+
+img {
+	border-radius: 10px;
+}
+
+#gallery {
+	text-decoration: none;
+}
+
+#gallery img {
+	padding: 10px;
+}
+
+.fullPhoto {
+	display: block;
+	margin: auto;
+}
+
+article {
+	padding: 10px;
+	border-bottom: outset #DAD3DE;
+}
+
